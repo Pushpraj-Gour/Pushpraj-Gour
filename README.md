@@ -35,20 +35,6 @@
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
 ![Windows](https://img.shields.io/badge/windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/Pushpraj-Gour">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pushpraj-Gour&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/Pushpraj-Gour">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushpraj-Gour&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pushpraj-Gour&theme=dark&hide_border=true"/>
-</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
@@ -57,11 +43,3 @@
 <a href="mailto:rajrjpushp@gmail.com"><img src="https://img.shields.io/badge/-rajrjpushp@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="http://www.github.com/Pushpraj-Gour"><img src="https://img.shields.io/badge/-Pushpraj%20Gour-181717?style=flat&logo=github&logoColor=white"/></a>
 </p>
-
-### 🐍 &nbsp;That's How Commits Move ...
-
-<div align="center">
-  <a href="https://github.com/Pushpraj-Gour">
-    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
-  </a>
-</div>
