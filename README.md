@@ -8,7 +8,7 @@
 ✍️ &nbsp;In my free time, I enjoy solving coding challenges and participating in tech communities.\
 💬 &nbsp;Feel free to reach out to me for collaboration or just an interesting tech chat.\
 ✉️ &nbsp;You can reach me at [rajrjpushp@gmail.com](mailto:rajrjpushp@gmail.com).\
-📄 &nbsp;Check out my [Résumé](http://www.linkedin.com/in/pushp-raj-gour) for more details.
+📄 &nbsp;Check out my [Résumé](https://drive.google.com/file/d/1maCfM3pWs0h7Yq2fegDvREz38pFWovG7/view?usp=sharing) for more details.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
